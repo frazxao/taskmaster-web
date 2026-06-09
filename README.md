@@ -72,7 +72,7 @@ Tabelas utilizadas:
 
 ## Integrantes
 
-* Seu Nome
+* Guilherme Frazão Feitoza
 
 ## Funcionalidades Implementadas
 
