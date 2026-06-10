@@ -80,3 +80,6 @@ Tabelas utilizadas:
 * CRUD completo
 * Navegação entre telas
 * Integração com Supabase
+
+## Link do Vídeo
+* https://youtu.be/uX13sgSV4ec
